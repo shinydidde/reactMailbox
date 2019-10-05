@@ -34,7 +34,7 @@ class Results extends Component {
                             <Col md={3}>{el.from}</Col>
                             <Col md={3}>{el.to} {el.total > 0 ? <span className="total">+{el.total}</span> : null}</Col>
                             <Col md={3}>{el.subject} {el.attachment ? <img className="float-right" alt="" src={clip}/> : null}</Col>
-                            <Col md={3}>{el.date}</Col>
+                            <Col md={3}><b>{el.date}</b></Col>
                           </Row>
                       </Accordion.Toggle>
                       <Accordion.Collapse className="table-body" eventKey={index}>
