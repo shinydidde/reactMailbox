@@ -5,7 +5,7 @@
           "to": "Wordpress.com.news",
           "subject": "Test mail",
           "snippet": "This is a test mail",
-          "date": "2017-10-26",
+          "date": "0:20",
           "attachment": true,
           "total": 2  
         },
@@ -14,7 +14,7 @@
           "to": "Wordpress.com.news",
           "subject": "[New po]Longreads best of…”,",
           "snippet": "Mark Armstrong posted",
-          "date": "2017-10-22",
+          "date": "0:10",
           "attachment": false,
           "total": 0 
         },
@@ -23,7 +23,7 @@
           "to": "Sochet Thea",
           "subject": "I like to add you to my Profession",
           "snippet": "Linkedin Sachet Thea Global",
-          "date": "2017-10-20",
+          "date": "Jan 01",
           "attachment": false,
           "total": 1 
         },
@@ -59,7 +59,7 @@
           "to": "vero eaque aliquid doloribus et culpa",
           "subject": "harum non quasi et ratione",
           "snippet": "tempore iure ex voluptates in ratione\nharum architecto fugit inventore cupiditate\nvoluptates magni quo et",
-          "date": "2017-10-16",
+          "date": "0:00",
           "attachment": true,
           "total": 1
         }
