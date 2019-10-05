@@ -1,4 +1,5 @@
-[
+{
+      "mails": [
       {
         "from": "george@foo.com",
         "to": "Wordpress.com.news",
@@ -49,3 +50,4 @@
         "date": "2017-10-16"
       }
     ]
+}
