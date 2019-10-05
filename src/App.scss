@@ -1,0 +1,96 @@
+img{
+  width: 15px;
+}
+.logo{
+  width: 100px;
+  margin-top: 60px;
+}
+.inputField{
+  &:focus{
+    box-shadow: none;
+    border-color: #ced4da;
+  }
+}
+.input-group-text.search{
+  background-color: #fff;
+  border-right-style: hidden;
+  img{
+    width: 25px;
+  }
+}
+.table-header{
+    padding: 15px 5px;
+    border: 1px solid lightgray;
+    background: rgba(0,0,0,.03);
+    .col-3{
+      border-right: 1px solid lightgray;
+    }
+    img{
+      width: 10px;
+      margin-left: 5px; 
+    }
+}
+.accordion{
+  width: 100%;
+  .card-header {
+    background-color: #fff;
+    img .desktop, span, .float-right{
+      float: right;
+      &.date{
+        margin-right: -30px;
+        img{
+          margin-right: 10px;
+          vertical-align: middle;
+          &.arrow{
+            width: 3.2px;
+            margin-top: -2px;
+            margin-right: 0;
+          }
+        }
+      }
+    }
+    .total{
+      float: right;
+      background-color: gray;
+      color: white;
+      padding: 0px 5px;
+      border-radius: 5px;
+      font-size: 12px;
+    }
+    &:hover{
+      background: #f6fdff;
+      cursor: pointer;
+      color: blue;
+    }
+  }
+  .table-body{
+    border-bottom: 1px solid rgba(0,0,0,.125);
+    background: rgba(0,0,0,.03);
+    p{
+      padding: .75rem 1.25rem;
+      margin-bottom: 0;
+    }
+  }
+}
+
+.inputField{
+  border-left-style: hidden;
+}
+.mobile {
+  .mail{
+    margin-top: 10px;
+    width: 12px;
+  }
+  .desc{
+    margin-left: -8px;
+  }
+  @media only screen and (min-width:600px) {
+    display: none;
+  }
+}
+
+.desktop {
+  @media only screen and (max-width:600px) {
+    display: none;
+  }
+}
