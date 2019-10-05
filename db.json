@@ -1,54 +1,14 @@
 {
-      "mails": [
-      {
-        "from": "george@foo.com",
-        "to": "Wordpress.com.news",
-        "subject": "Test mail",
-        "snippet": "This is a test mail",
-        "date": "2017-10-26"
-      },
-      {
-        "from": "paul@goo.com",
-        "to": "Wordpress.com.news",
-        "subject": "[New po]Longreads best of…”,",
-        "snippet": "Mark Armstrong posted",
-        "date": "2017-10-22"
-      },
-      {
-        "from": "Eliseo@gardner.biz",
-        "to": "Sochet Thea",
-        "subject": "I like to add you to my Profession",
-        "snippet": "Linkedin Sachet Thea Global",
-        "date": "2017-10-20"
-      },
-      {
-        "from": "Nikita@garfield.biz",
-        "to": "biggtech",
-        "subject": "[Tech free]please moderate",
-        "snippet": "A new ping back on the  post",
-        "date": "2017-10-18"
-      },
-      {
-        "from": "Lew@alysha.tv",
-        "to": "000webhost India",
-        "subject": "Free hosting in India",
-        "snippet": "Hosting Information",
-        "date": "2017-10-16"
-      },
-      {
-        "from": "Hayden@althea.biz",
-        "to": "000webhost India",
-        "subject": "Free hosting in India",
-        "snippet": "Hosting Information",
-        "date": "2017-10-16"
-      },
-      {
-        "from": "Presley.Mueller@myrl.com",
-        "to": "vero eaque aliquid doloribus et culpa",
-        "subject": "harum non quasi et ratione",
-        "snippet": "tempore iure ex voluptates in ratione\nharum architecto fugit inventore cupiditate\nvoluptates magni quo et",
-        "date": "2017-10-16"
-      }
-    ]
-
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
