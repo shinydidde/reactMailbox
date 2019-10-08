@@ -13,7 +13,7 @@ class App extends Component {
     };
   }
   componentWillMount() {
-    fetch('https://raw.githubusercontent.com/shinydidde/reactMailbox/master/data.json')
+    fetch('https://raw.githubusercontent.com/shinydidde/shinydidde.github.io/master/data.json')
       .then(response => response.json())
       .then(json => this.setState({ data: json.mails }));
   }
