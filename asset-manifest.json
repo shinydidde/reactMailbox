@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/reactMailbox/static/css/main.b4d426cd.chunk.css",
+    "main.js": "/reactMailbox/static/js/main.75b8f2ae.chunk.js",
+    "main.js.map": "/reactMailbox/static/js/main.75b8f2ae.chunk.js.map",
+    "runtime-main.js": "/reactMailbox/static/js/runtime-main.58cee42f.js",
+    "runtime-main.js.map": "/reactMailbox/static/js/runtime-main.58cee42f.js.map",
+    "static/css/2.0624914a.chunk.css": "/reactMailbox/static/css/2.0624914a.chunk.css",
+    "static/js/2.55badfda.chunk.js": "/reactMailbox/static/js/2.55badfda.chunk.js",
+    "static/js/2.55badfda.chunk.js.map": "/reactMailbox/static/js/2.55badfda.chunk.js.map",
+    "index.html": "/reactMailbox/index.html",
+    "precache-manifest.097e26a69afd128401e45580d799abb8.js": "/reactMailbox/precache-manifest.097e26a69afd128401e45580d799abb8.js",
+    "service-worker.js": "/reactMailbox/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/reactMailbox/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.b4d426cd.chunk.css.map": "/reactMailbox/static/css/main.b4d426cd.chunk.css.map",
+    "static/media/icon_arrow01.svg": "/reactMailbox/static/media/icon_arrow01.c7f1a998.svg",
+    "static/media/icon_arrow02.svg": "/reactMailbox/static/media/icon_arrow02.a8497fb7.svg",
+    "static/media/icon_calender.svg": "/reactMailbox/static/media/icon_calender.e058455f.svg",
+    "static/media/icon_clip.svg": "/reactMailbox/static/media/icon_clip.fae31ac0.svg",
+    "static/media/icon_mail_sp.svg": "/reactMailbox/static/media/icon_mail_sp.b845eca9.svg",
+    "static/media/icon_search.svg": "/reactMailbox/static/media/icon_search.04846dcd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58cee42f.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.55badfda.chunk.js",
+    "static/css/main.b4d426cd.chunk.css",
+    "static/js/main.75b8f2ae.chunk.js"
+  ]
+}
